@@ -29,7 +29,7 @@ const UserDropdown = () => {
             <DropdownMenuTrigger asChild>
                 <Button
                     variant="ghost"
-                    className="flex items-centergap-3 text-gray-4 hover:text-yellow-500 transition-colors"
+                    className="flex items-centergap-3 text-gray-400 hover:text-yellow-500 transition-colors"
                 >
                     <Avatar className="w-8 h-8">
                         <AvatarImage src="https://github.com/shadcn.png" />
